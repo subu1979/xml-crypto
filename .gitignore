@@ -1,0 +1,14 @@
+lib/
+node_modules/
+p.js
+p.txt
+*.svclog
+.DS_Store
+*.*~
+*.swp
+npm-debug.log
+/test/validators/XmlCryptoJava/target/
+.eslintcache
+.nyc_output/
+coverage/
+.idea
