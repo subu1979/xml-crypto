@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/node-saml/xml-crypto.git"
+    "url": "git+https://github.com/subu1979/xml-crypto.git"
   },
   "license": "MIT",
   "author": "Yaron Naveh <yaronn01@gmail.com> (http://webservices20.blogspot.com/)",
